@@ -1,5 +1,1 @@
-# FFStreamViewer
-Refer to the following repo link:
-```
-https://github.com/Project-GagSpeak
-```
+Abandoned project once made for the purpose of embedding live streaming content into your game
